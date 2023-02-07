@@ -1,1 +1,1 @@
-uname: prints system information
+Getting feet wet in Vagrant
